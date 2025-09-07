@@ -1,0 +1,51 @@
+{
+  "dine.source.entity": "Entity",
+  "dine.source.block_entity": "Block Entity",
+
+  "dine.screen.no_screen": "No Screen",
+  "dine.screen.loading": "Loading ...",
+
+  "dine.rc.close_all": "Close all",
+  "dine.rc.try_pause_game": "Try pause game",
+  "dine.rc.continue_game": "✔ Try pause game",
+
+  "dine.rc.set_value": "Edit node...",
+  "dine.rc.add_value": "Add node...",
+  "dine.rc.remove_value": "Delete node",
+  "dine.rc.copy": "Copy",
+  "dine.rc.cut": "Cut",
+  "dine.rc.paste_value": "Paste",
+  "dine.rc.paste_node": "Paste and add",
+  "dine.rc.paste_before": "Paste in the front",
+  "dine.rc.copy_value_to_clipboard": "Copy value to clipboard",
+  "dine.rc.copy_path_to_clipboard": "Copy path to clipboard",
+  "dine.rc.set_from_server": "Query server",
+  "dine.rc.set_not_from_server": "✔ Query server",
+
+  "dine.popup.set_value": "Edit Node",
+  "dine.popup.add_value": "Add Node",
+  "dine.popup.source_invalid": "Source Not Found!",
+  "dine.popup.source_invalid.retry": "Retry",
+  "dine.popup.source_invalid.close": "Close",
+  "dine.popup.set_value.apply": "Apply",
+  "dine.popup.set_value.cancel": "Cancel",
+  "dine.popup.set_value.key": "Key",
+  "dine.popup.set_value.index": "Index",
+  "dine.popup.set_value.value": "Value",
+  "dine.popup.set_value.error_empty_key": "Key cannot be empty!",
+  "dine.popup.set_value.error_negative_index": "Index is illegal!",
+  "dine.popup.set_value.error_parse_nbt": "Cannot parse NBT!",
+
+  "dine.command.no_target": "Target not found!",
+
+  "dine.message.error_command": "Failed assembling command!",
+  "dine.message.failed_sending_command": "Failed sending command!",
+  "dine.message.send_command": "Command has been sent to server. Length %s.",
+  "dine.message.copied": "Copied to clipboard. Length %s.",
+
+  "argument.uuid.failed_parsing": "Failed parsing UUID %s",
+
+  "key.category.dine": "Dynamic In-Game NBT Editor (DINE)",
+  "key.dine.open_dine": "Open DINE Editor",
+  "key.dine.open_target": "Edit Target"
+}
