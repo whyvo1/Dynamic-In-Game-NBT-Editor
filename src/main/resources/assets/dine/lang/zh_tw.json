@@ -1,0 +1,51 @@
+{
+  "dine.source.entity": "實體",
+  "dine.source.block_entity": "方塊實體",
+
+  "dine.screen.no_screen": "無熒幕",
+  "dine.screen.loading": "載入中……",
+
+  "dine.rc.close_all": "關閉全部",
+  "dine.rc.try_pause_game": "嘗試暫停遊戲",
+  "dine.rc.continue_game": "✔ 嘗試暫停遊戲",
+
+  "dine.rc.set_value": "編輯節點...",
+  "dine.rc.add_value": "添加節點...",
+  "dine.rc.remove_value": "刪除節點",
+  "dine.rc.copy": "複製",
+  "dine.rc.cut": "剪切",
+  "dine.rc.paste_value": "貼上",
+  "dine.rc.paste_node": "貼上並添加",
+  "dine.rc.paste_before": "貼在前面",
+  "dine.rc.copy_value_to_clipboard": "將值複製到剪貼簿",
+  "dine.rc.copy_path_to_clipboard": "將路徑複製到剪貼簿",
+  "dine.rc.set_from_server": "查詢伺服器",
+  "dine.rc.set_not_from_server": "✔ 查詢伺服器",
+
+  "dine.popup.set_value": "編輯節點",
+  "dine.popup.add_value": "添加節點",
+  "dine.popup.source_invalid": "無法取得來源！",
+  "dine.popup.source_invalid.retry": "重試",
+  "dine.popup.source_invalid.close": "關閉",
+  "dine.popup.set_value.apply": "套用",
+  "dine.popup.set_value.cancel": "取消",
+  "dine.popup.set_value.key": "鍵",
+  "dine.popup.set_value.index": "索引",
+  "dine.popup.set_value.value": "值",
+  "dine.popup.set_value.error_empty_key": "键不能为空！",
+  "dine.popup.set_value.error_negative_index": "非法的索引！",
+  "dine.popup.set_value.error_parse_nbt": "無法解析NBT！",
+
+  "dine.command.no_target": "目標未找到！",
+
+  "dine.message.error_command": "組裝指令失敗！",
+  "dine.message.failed_sending_command": "傳送指令失敗！",
+  "dine.message.send_command": "已傳送指令至伺服器。長度%s。",
+  "dine.message.copied": "已複製到剪貼簿。長度%s。",
+
+  "argument.uuid.failed_parsing": "無法解析UUID：%s",
+
+  "key.category.dine": "更好的遊戲內NBT編輯器（DINE）",
+  "key.dine.open_dine": "開啟DINE編輯器",
+  "key.dine.open_target": "編輯目標"
+}
