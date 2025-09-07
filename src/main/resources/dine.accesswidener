@@ -1,0 +1,4 @@
+accessWidener v2 named
+# do not modify when you get this entries
+accessible field net/minecraft/nbt/NbtCompound entries Ljava/util/Map;
+accessible method net/minecraft/client/world/ClientWorld getEntityLookup ()Lnet/minecraft/world/entity/EntityLookup;
