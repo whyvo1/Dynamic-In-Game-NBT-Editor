@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "dine",
+	"version": "${version}",
+	"name": "Dynamic In-Game NBT Editor",
+	"description": "Edit NBT dynamically!",
+	"authors": [
+		"Whyvo"
+	],
+	"license": "MIT",
+	"icon": "assets/dine/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.whyvo.dine.DINE"
+		]
+	},
+	"mixins": [
+		"dine.mixins.json"
+	],
+	"accessWidener" : "dine.accesswidener",
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": ">=1.20 <1.20.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
